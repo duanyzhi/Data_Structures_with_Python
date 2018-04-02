@@ -11,10 +11,11 @@ Sorting Algorithms:
     ![Selection Sort](https://github.com/duanyzhi/Data_Structures_with_Python/blob/master/Sorting%20Algorithms/gif/selection%20sort.gif)
     
 4. Shell Sort
-   ![hell Sort](https://github.com/duanyzhi/Data_Structures_with_Python/blob/master/Sorting%20Algorithms/gif/shell%20sort.gif)
+    ![hell Sort](https://github.com/duanyzhi/Data_Structures_with_Python/blob/master/Sorting%20Algorithms/gif/shell%20sort.gif)
    
 5. Quick Sort
-   ![Quick Sort](https://github.com/duanyzhi/Data_Structures_with_Python/blob/master/Sorting%20Algorithms/gif/quick%20sort.gif)
-   ![quick sort](https://github.com/duanyzhi/Data_Structures_with_Python/blob/master/Sorting%20Algorithms/gif/quick%20sort.PNG)
+    ![Quick Sort](https://github.com/duanyzhi/Data_Structures_with_Python/blob/master/Sorting%20Algorithms/gif/quick%20sort.gif)
+    
+    ![quick sort](https://github.com/duanyzhi/Data_Structures_with_Python/blob/master/Sorting%20Algorithms/gif/quick%20sort.PNG)
    
    
