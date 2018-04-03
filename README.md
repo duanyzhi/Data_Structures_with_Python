@@ -19,5 +19,8 @@ Sorting Algorithms:
   
   快排例子：
     ![quick sort](https://github.com/duanyzhi/Data_Structures_with_Python/blob/master/Sorting%20Algorithms/gif/quick%20sort.PNG)
-   
+    
+6. Merge Sort
+  
+  
    
